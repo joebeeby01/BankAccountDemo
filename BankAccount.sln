@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36616.10 d17.14
+VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{87AD5849-6C50-4718-A13F-F852590A3E69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{A92882BE-94D5-42ED-83E5-B38044406754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{CD18D0B0-A8B0-45F4-96B3-9FB55E82A631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A92882BE-94D5-42ED-83E5-B38044406754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A92882BE-94D5-42ED-83E5-B38044406754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A92882BE-94D5-42ED-83E5-B38044406754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD18D0B0-A8B0-45F4-96B3-9FB55E82A631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD18D0B0-A8B0-45F4-96B3-9FB55E82A631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD18D0B0-A8B0-45F4-96B3-9FB55E82A631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD18D0B0-A8B0-45F4-96B3-9FB55E82A631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
